@@ -3,8 +3,10 @@
 - Clone this project or copy-paste/download the different files OR
 - Access to [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ifaddeenkov/genAI-promptOpt/HEAD)
 
-1. Exercises related to programming (in Python)
+You can work on three types of exercises:
 
-2. Exercises related to scientific, non-coding areas
+- 1. Exercises related to programming (in Python)
 
-3. Exercises related to non-scientific areas
+- 2. Exercises related to scientific, non-coding areas
+
+- 3. Exercises related to other areas
