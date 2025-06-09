@@ -5,8 +5,8 @@
 
 You can work on three types of exercises:
 
-- 1. Exercises related to programming (in Python)
+1. Exercises related to programming (in Python)
 
-- 2. Exercises related to scientific, non-coding areas
+2. Exercises related to scientific, non-coding areas
 
-- 3. Exercises related to other areas
+3. Exercises related to other areas
