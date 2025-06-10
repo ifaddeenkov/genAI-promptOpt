@@ -10,3 +10,7 @@ You can work on three types of exercises:
 2. Exercises related to scientific, non-coding areas
 
 3. Exercises related to other areas
+
+Link to AI agent collection:
+
+https://aiagentslist.com/
