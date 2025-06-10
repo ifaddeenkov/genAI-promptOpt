@@ -14,3 +14,6 @@ You can work on three types of exercises:
 Link to AI agent collection:
 
 https://aiagentslist.com/
+
+
+[Presentation from AI in research workshop](https://github.com/ifaddeenkov/genAI-promptOpt/blob/main/How_to_Optimise_Your_Prompt_on_ChatGPT_FADDEENKOV.pptx)
